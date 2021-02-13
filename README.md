@@ -10,9 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any automation project
 - 🤔 I’m looking for help with ...React Native
 - 💬 Ask me about ...Network Engineering, IoT, Python, Node Js
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
