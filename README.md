@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Liquid Telecom PoC 
-- 🌱 I’m currently learning Network Automation with Python
-- 👯 I’m looking to collaborate on any automation project
-- 🤔 I’m looking for help with ...React Native
-- 💬 Ask me about ...Network Engineering, IoT, Python, Node Js
+- 🔭 I’m currently working on Products focused on the intersection between Hardware, ML and Software experiences
+- 🌱 I’m currently learning Bayesian Inferencing and Network Automation with Python
+- 👯 I’m looking to collaborate on any Embedded AI + automation project
+- 🤔 I’m looking for help with ... Monte Carlo Localization
+- 💬 Ask me about ... Product Management,Signal Processing, Deep Learning, Electronics, IoT, Python, Node Js
 
 
 
